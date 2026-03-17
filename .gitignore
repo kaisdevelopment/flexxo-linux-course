@@ -1,0 +1,9 @@
+# Temporários
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Scripts de geração (já cumpriram sua função)
+/tmp/criar-*.sh
