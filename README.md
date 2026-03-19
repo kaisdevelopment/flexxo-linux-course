@@ -32,7 +32,7 @@ O conteúdo vai além do operacional básico: cada aula conecta a **infraestrutu
 
 | Aula | Tema | Arquivo |
 |------|------|---------|
-| 03 | Shell Script: Fundamentos | Em breve |
+| 03 | Shell Script: Fundamentos (Variáveis e Condicionais) | [aula-03](aulas/aula-03-shell-script-fundamentos.md) |
 | 04 | Shell Script: Automação de Rotinas | Em breve |
 | 05 | Cronjobs e Agendamento de Tarefas | Em breve |
 
