@@ -94,7 +94,7 @@ Veja o modelo em [templates/template-material-apoio.md](templates/template-mater
 
 ## 📄 Licença
 
-Material de uso exclusivo dos alunos da escola Flexxo. Todos os direitos reservados.
+Material de uso exclusivo dos alunos da escola Flexxo. Todos os direitos reservados
 
 ---
 
